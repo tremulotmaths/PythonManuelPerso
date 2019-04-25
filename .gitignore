@@ -1,0 +1,10 @@
+*.aux
+*.dvi
+*.log
+*.mtc
+*.mtc0
+*.out
+*.ps
+*.synctex.gz
+*.tex.bak
+*.toc
