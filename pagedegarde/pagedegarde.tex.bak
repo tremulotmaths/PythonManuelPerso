@@ -1,0 +1,25 @@
+\thispagestyle{empty}
+
+\vspace*{\stretch{1}}
+\Huge
+\begin{center}
+\scalebox{5}{Pour}
+
+\vspace*{48pt}
+
+\scalebox{5}{démarrer}
+
+\vspace*{48pt}
+
+\scalebox{5}{avec}
+
+\vspace*{48pt}
+
+\includegraphics[width=0.9\textwidth]{images/python-logo}
+\end{center}
+
+\normalsize
+\vspace*{\stretch{1}}
+\begin{center}
+Version du \today
+\end{center}

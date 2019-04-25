@@ -1,0 +1,54 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Qu'est-ce qu'un algorithme ?}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{Defi}[]{}
+Un algorithme est une liste finie de processus élémentaires, appelés instructions élémentaires, amenant à la
+résolution d'un problème.
+\end{Defi}
+
+\begin{Exemple}[s]{}
+$\star$ Une recette de cuisine
+
+$\star$ Un trajet élaboré par un GPS
+
+$\star$ Le plan de montage d'un meuble
+\end{Exemple}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Les langages}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{CadreAlgo}{\linewidth}{}
+Un algorithme peut être décrit en langage \og naturel\fg{}, mais on utilise dans la plupart des cas un langage plus
+précis adapté aux instructions utilisées : on parle alors de langage de programmation.
+\end{CadreAlgo}
+
+Cette année, nous utiliserons principalement\dots
+
+$\star$ le langage \og naturel \fg{},
+
+$\star$ le langage de programmation de votre calculatrice,
+
+$\star$ et le langage de programmation Python.
+
+\medskip
+
+De façon générale, on peut considérer trois étapes dans un algorithme :
+
+\begin{enumerate}
+\item \textbf{L'entrée des données}
+
+Dans cette étape figure la lecture des données qui seront traitées au cours de l'algorithme. Ces données peuvent
+être saisies au clavier ou bien être lues dans un fichier annexe.
+
+\item \textbf{Le traitement des données}
+
+C'est le cœur du programme. Il est constitué d'une suite d'instructions, parmi lesquelles les différentes opérations
+sur les données, qui permettent de résoudre le problème.
+
+\item \textbf{La sortie des résultats}
+
+C'est le résultat obtenu qui peut être affiché à l'écran ou enregistré dans un fichier.
+
+\end{enumerate}
