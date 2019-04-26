@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2018.10.16)  26 APR 2019 23:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2018.10.16)  26 APR 2019 23:45
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2512,26 +2512,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 (./contenu/contenu.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
-
-
-Package rerunfilecheck Warning: File `Pour_demarrer_Python.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Pour_demarrer_Python.out':
-(rerunfilecheck)             Before: 3D696BBDE479987146EC36E2770E60A2;1176
-(rerunfilecheck)             After:  E9F00E60027E4A5693973DF7BFE85FAF;1264.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `Pour_demarrer_Python.out' has not changed.
+(rerunfilecheck)             Checksum: E9F00E60027E4A5693973DF7BFE85FAF;1264.
  ) 
 Here is how much of TeX's memory you used:
- 59835 strings out of 493030
- 1252279 string characters out of 6136259
- 1711813 words of memory out of 5000000
- 62180 multiletter control sequences out of 15000+600000
+ 59836 strings out of 493030
+ 1252293 string characters out of 6136259
+ 1712813 words of memory out of 5000000
+ 62181 multiletter control sequences out of 15000+600000
  59910 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,12n,85p,10479b,2289s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Pour_demarrer_Python.dvi (15 pages, 192744 bytes).
+Output written on Pour_demarrer_Python.dvi (15 pages, 193656 bytes).

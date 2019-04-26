@@ -532,13 +532,13 @@ La fonction \verb!choice([])! de la bibliothèque \verb!random! retourne une val
 \section{L'utilisation des chaînes de caractères}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-$\star$ Concaténer deux chaînes \og abc\fg{} et "def" : \verb~"abc"+"def"~
+$\star$ Concaténer deux chaînes \og abc\fg{} et \og def\fg{} : \verb~"abc"+"def"~
 
 $\star$ Obtenir le caractère numéro \verb~i~ de la chaîne \verb~chaine~ : \verb~chaine[i]~
 
 Cela fonctionne comme pour une liste.
 
-$\star$ Convertir la chaîne de caractères "123" en un entier : \verb~int("123")~
+$\star$ Convertir la chaîne de caractères \og 123\fg{} en un entier : \verb~int("123")~
 
 $\star$ Convertir l'entier \og 123 \fg{}  en chaîne de caractères : \verb~str(123)~
 
@@ -560,7 +560,7 @@ $\star$ Affecter la valeur $a$ à la valeur d'indice $i$ de la liste L (le premi
 \verb!L[i]=a!
 
 $\star$ Ajouter l'élément x au bout de la liste L :
-\verb!L.append(x)!
+\verb!L.append(x)! ou \verb~L=L+[x]~ ou \verb~L+=[x]~
 
 $\star$ Ajouter l'élément x au rang i de la liste L :
 \verb!L.insert(i,x)!
@@ -570,6 +570,8 @@ liste L : \verb!L.remove(x)!
 
 $\star$ Supprimer l'élément d'indice $i$ dans la liste L :
 \verb!L.pop(i)! ou \verb!del L[i]!
+
+\verb~L.pop()~ supprime le \textbf{dernier} élément de la liste L
 
 $\star$ Longueur d'une liste L :
 \verb!len(L)!
